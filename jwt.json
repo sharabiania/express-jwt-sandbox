@@ -1,0 +1,11 @@
+[
+    {
+        "iss": "Issuer 1",
+        "secret": "Secret 1"
+    },
+    {
+        "iss": "Issuer 2",
+        "secret": "Secret 2"
+    }
+
+]
